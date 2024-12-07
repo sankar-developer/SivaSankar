@@ -1,10 +1,10 @@
-import { FaLinkedin, FaTwitter, FaYoutube, FaMedium } from "react-icons/fa";
+import { FaLinkedin, FaTwitter, } from "react-icons/fa";
 
 const socialLinks = [
   { href: "https://www.linkedin.com/in/siva-ka/", icon: <FaLinkedin /> },
   { href: "https://x.com/Shivkraa", icon: <FaTwitter /> },
-  { href: "https://youtube.com", icon: <FaYoutube /> },
-  { href: "https://medium.com", icon: <FaMedium /> },
+  // { href: "https://youtube.com", icon: <FaYoutube /> },
+  // { href: "https://medium.com", icon: <FaMedium /> },
 ];
 
 const Footer = () => {

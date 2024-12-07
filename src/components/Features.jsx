@@ -105,16 +105,16 @@ const Work = () => (
         <p className="font-circular-web text-xl text-blue-50 pb-1">
           About Me
         </p>
-        <p className="max-w-xl font-circular-web text-lg text-blue-50 opacity-50">
+        <p className="max-w-xl font-circular-web text-lg pb-12 text-blue-50 opacity-50">
         I'm Siva, an AWS Cloud Expert skilled in Networking, Virtualization, Linux, Databases, Terraform & Python. <br></br>I design efficient cloud solutions, optimize systems & transform data into actionable insights to drive impactful decisions!
         </p>
-        <p className="font-circular-web text-xl text-blue-50 pt-12 pb-6">
+        {/* <p className="font-circular-web text-xl text-blue-50 pt-12 pb-6">
           My Portfolio
-        </p>
+        </p> */}
       </div>
       
 
-      <div className="grid h-[135vh] w-full grid-cols-2 grid-rows-2 gap-7 pb-24">
+      {/* <div className="grid h-[135vh] w-full grid-cols-2 grid-rows-2 gap-7 pb-24">
         <BentoTilt className="bento-tilt_1 row-span-1 md:col-span-1 md:row-span-2">
           <BentoCard
             src="videos/feature-2.mp4"
@@ -155,7 +155,7 @@ const Work = () => (
         </BentoTilt>
 
         
-      </div>
+      </div> */}
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
         <BentoCard
           src="videos/feature-1.mp4"
