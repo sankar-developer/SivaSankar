@@ -74,13 +74,13 @@ const NavBar = () => {
             <img src="/img/logo.png" alt="logo" className="w-10" />
             
             <a 
-              href="https://github.com/Shivkra" 
+              href="https://www.blitznow.in/" 
               target="_blank" 
               rel="noopener noreferrer"
             >
                 <Button
                 id="product-button"
-                title="Code"
+                title="Website"
                 rightIcon={<TiLocationArrow />}
                 containerClass="bg-blue-50 md:flex hidden items-center justify-center gap-1"
                 />
