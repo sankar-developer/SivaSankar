@@ -39,9 +39,7 @@ const Contact = () => {
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
           <a
-          href="mailto:shivkra@icloud.com?subject=Hello!"
-              target="_blank" 
-              rel="noopener noreferrer"
+          href="https://www.blitznow.in/BoostSaleNow/index.html"
           >
           <Button title="contact me" containerClass="mt-10 cursor-pointer" />
           </a>
