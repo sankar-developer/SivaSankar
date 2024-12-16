@@ -172,7 +172,7 @@ const Hero = () => {
       </div>
 
       <h1 className="special-font hero-heading absolute bottom-6 right-5 text-black">
-        wi<b>t</b>h AWS
+        wi<b>t</b>h Blitz
       </h1>
     </div>
   );
