@@ -155,9 +155,7 @@ const Hero = () => {
             </p>
 
             <a 
-              href="mailto:shivkra@icloud.com?subject=I’m Interested - Let’s Discuss!"
-              target="_blank" 
-              rel="noopener noreferrer"
+              href="https://www.blitznow.in/BoostSaleNow/index.html"
             >
               <Button
                 id="contact-button"
