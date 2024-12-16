@@ -140,8 +140,8 @@ const Hero = () => {
           />
         </div>
 
-        <h1 className="special-font hero-heading absolute bottom-6 right-5 z-40 text-blue-75">
-          <p className="sider-heading pl-3">with</p><b>AWS</b>
+        <h1 className="special-font hero-heading absolute bottom-6 right-12 z-40 text-blue-75">
+          <p className="sider-heading">with</p><b>Blitz</b>
         </h1>
 
         <div className="absolute left-0 top-0 z-40 size-full">
@@ -150,18 +150,18 @@ const Hero = () => {
               Sc<b>a</b>le
             </h1>
 
-            <p className="mb-5 max-w-64 font-robert-regular text-blue-100 text-lg">
-            Want to dive deeper into <b>AWS</b> or need some assistance?
+            <p className="mb-5 max-w-72 font-robert-regular text-blue-100 text-lg">
+            Ready to elevate your eCommerce game with Same-Day Delivery?
             </p>
 
             <a 
-              href="mailto:shivkra@icloud.com?subject=Hello!"
+              href="mailto:shivkra@icloud.com?subject=I’m Interested - Let’s Discuss!"
               target="_blank" 
               rel="noopener noreferrer"
             >
               <Button
                 id="contact-button"
-                title="Contact Me"
+                title="Contact us"
                 rightIcon={<TiLocationArrow />}
                 containerClass="bg-blue-50 flex-center items-center justify-center gap-1"
               />
