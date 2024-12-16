@@ -103,10 +103,10 @@ const Work = () => (
     <div className="container mx-auto px-3 md:px-10">
       <div className="px-5 pt-12">
         <p className="font-circular-web text-xl text-blue-50 pb-1">
-          About Me
+          About Me & Blitz
         </p>
-        <p className="max-w-xl font-circular-web text-lg pb-12 text-blue-50 opacity-50">
-        I'm Siva, an AWS Cloud Expert skilled in Networking, Virtualization, Linux, Databases, Terraform & Python. <br></br>I design efficient cloud solutions, optimize systems & transform data into actionable insights to drive impactful decisions!
+        <p className="max-w-xl font-circular-web text-lg pb-16 text-blue-50 opacity-50">
+        I'm Siva, a Business Development Specialist with expertise in building strong client relationships & driving growth. <br></br> Blitz powers Same-Day Delivery for eCommerce brands, boosting conversions by 30-40%, doubling retention & providing a competitive edge with reliable, scalable & affordable delivery solutions.
         </p>
         {/* <p className="font-circular-web text-xl text-blue-50 pt-12 pb-6">
           My Portfolio
@@ -164,7 +164,7 @@ const Work = () => (
               H<b>o</b>t Insight
             </>
           }
-          description="AWS manages and stores exabytes of data daily across its global infrastructure, enabling businesses to scale efficiently and achieve impactful results."
+          description="India's eCommerce market is expected to reach $350 billion by 2030, driven by over 500 million internet users."
         />
       </BentoTilt>
     </div>
