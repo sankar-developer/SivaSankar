@@ -32,7 +32,7 @@ const Footer = () => {
         <p
           className="text-center text-sm font-light md:text-right"
         >
-         ❤️ Zentry
+         🖤 Zentry
         </p>
       </div>
     </footer>
