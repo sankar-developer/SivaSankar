@@ -1,9 +1,9 @@
 #Welcome to Siva Sankar Landing Page
 
-#Unlock the Power of Cloud
+#Unlock the Power of Quick Delivery
 
 Built with: React, Tailwind CSS, GASP, CLSX, 
-Hosted on: AWS Cloud
-Source Code: 
+Hosted on: Netlify
+Source Code: https://github.com/sankar-developer/SivaSankar.git
 
 Special thanks to JS Mastery
