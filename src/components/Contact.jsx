@@ -41,7 +41,7 @@ const Contact = () => {
           <a
           href="https://www.blitznow.in/BoostSaleNow/index.html"
           >
-          <Button title="contact me" containerClass="mt-10 cursor-pointer" />
+          <Button title="contact us" containerClass="mt-10 cursor-pointer" />
           </a>
           
         </div>
