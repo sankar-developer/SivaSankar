@@ -35,7 +35,7 @@ const Contact = () => {
 
         <div className="flex flex-col items-center text-center">
           <AnimatedTitle
-            title="let&#39;s r<b>e</b>imagine <br />the world <br />with Cl<b>o</b>ud"
+            title="r<b>e</b>imagine<br />with<br /><b>Q</b>uick <b>D</b>elivery"
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
           <a
